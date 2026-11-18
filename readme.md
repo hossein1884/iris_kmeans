@@ -86,24 +86,6 @@ width](https://github.com/user-attachments/assets/e4ca9adc-4746-4d88-90a7-042710
 > the two feature pairs. Therefore, the colors show the original
 > four-feature cluster assignments projected onto each 2D plot.
 
-## Project Structure
-
-``` text
-iris_k-means/
-│
-├── iris.csv
-├── main.py
-├── README.md
-│
-└── images/
-    ├── sepal_clusters.png
-    └── petal_clusters.png
-```
-
-The `images` folder contains the plot screenshots embedded above. Save
-your generated plots using these filenames so GitHub can display them in
-the README.
-
 ## Requirements
 
 -   Python 3.8+
